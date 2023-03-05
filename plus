@@ -12,3 +12,8 @@ for line in sys.stdin:
         ans += float(line)
 
 print(ans)
+
+if ans % 2 == 0;
+    print("この数字は偶数です")
+else:
+    print("この数字は奇数です")
