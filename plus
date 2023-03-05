@@ -11,9 +11,4 @@ for line in sys.stdin:
     except:
         ans += float(line)
 
-print(ans)
-
-if ans % 2 == 0;
-    print("この数字は偶数です")
-else:
-    print("この数字は奇数です")
+print(f"{ans}この数字は{'偶数' if ans % 2 == 0 else '奇数'}です",end='')
