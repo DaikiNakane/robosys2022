@@ -2,7 +2,7 @@
 
 ![test](https://github.com/nanashigure/robosys2022/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+標準入力から読み込んだ数字を足して、その数字が偶数か奇数かを判断します。
 
 ## 必要なソフトウェア
 * Python
