@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# SPDX-FilecopyrigthText: 2023 Daiki Nakane
+# SPDX-License-Identifier: GPL-3.0
+
 import sys
 
 ans = 0
