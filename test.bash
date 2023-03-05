@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xv
 #PDX-FileCopyrightText: 2023 Daiki Nakane
 # SPDX-License-Identifier: BSD-3-Clause
 　
